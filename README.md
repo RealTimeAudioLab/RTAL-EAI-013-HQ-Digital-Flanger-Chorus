@@ -181,9 +181,13 @@ The README deliberately avoids inventing unverified pin assignments, precise CC-
 
 Photographs and screenshots document the RTAL HQ FLANGER hardware and interface. The sound demonstration uses a separate audio recording instead of the camera's original audio. Some enhanced promotional images may contain rendering artifacts; refer to actual firmware screens for authoritative labels and values.
 
-## License
+## License and credits
 
-**No software license is specified in the supplied README.** Before publishing, add an appropriate `LICENSE` file if you intend to grant reuse or redistribution rights. Do not assume an open-source license applies automatically.
+GNU General Public License v3.
+
+© 2026 RealTimeAudioLab · RTAL Embedded Audio Initiative
+
+Acknowledgements: the pioneers of electronic music and classic phaser design; Espressif Systems and the Arduino/open-source audio community.
 
 ---
 
