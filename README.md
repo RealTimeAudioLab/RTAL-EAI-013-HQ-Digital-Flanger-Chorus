@@ -3,6 +3,10 @@ Stereo flanger and chorus with BBD-inspired sound parameters, LFO modulation wit
 
 ## 🎬 RTAL HQ FLANGER V1.0 – Sound Demo
 
-[![RTAL HQ FLANGER Sound Demo](media/RTAL_HQ_FLANGER_Video_Preview.jpg)](media/RTAL_HQ_FLANGER_Sound_Demo_GitHub_Compact.mp4)
+Hear and see the actual instrument. The MP4 includes audio and plays directly in GitHub's README viewer.
 
 Click the image to watch the RTAL HQ FLANGER V1.0 Sound Demo.
+
+https://github.com/user-attachments/assets/395d6af5-5297-491b-bd56-4881cbdd7d9a
+
+---
