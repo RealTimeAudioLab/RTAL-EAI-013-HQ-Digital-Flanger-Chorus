@@ -1,4 +1,4 @@
-# RTAL-EAI-012 HQ FLANGER — Digital Stereo Flanger & Chorus
+# RTAL-EAI-013 HQ FLANGER — Digital Stereo Flanger & Chorus
 
 **Version 1.0 · Phoenix ESP32-S3 · 128 presets · Preset morphing · MIDI control**
 
