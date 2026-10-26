@@ -8,7 +8,7 @@ The **RTAL HQ FLANGER Editor** is the companion desktop application for the **RT
 
 ## Editor in action
 
-![RTAL HQ FLANGER Editor demonstration](../media/editor/RTAL_FLANGER_EDITOR.gif)
+![RTAL HQ FLANGER Editor demonstration](../images/editor/RTAL_FLANGER_EDITOR.gif)
 
 *Animated editor preview (if the uploaded GIF contains multiple frames).*
 
@@ -27,43 +27,43 @@ The **RTAL HQ FLANGER Editor** is the companion desktop application for the **RT
 
 ### MAIN — primary flanger controls
 
-![Editor MAIN page](../media/editor/RTAL_Flanger_Editor_Main.JPG)
+![Editor MAIN page](../images/editor/RTAL_Flanger_Editor_Main.JPG)
 
 Adjust **TIME**, **FEEDBACK**, **LFO RATE**, **LFO AMOUNT**, **MIX**, **DRIVE**, **OUTPUT LEVEL**, **BYPASS** and **INPUT**. The editor displays the current parameter values and synchronizes changes with the device.
 
 ### BBD / CHARACTER — tone and feedback shaping
 
-![Editor BBD and character page](../media/editor/RTAL_Flanger_Editor_BBD_Character.JPG)
+![Editor BBD and character page](../images/editor/RTAL_Flanger_Editor_BBD_Character.JPG)
 
 Shape the BBD-inspired digital character with controls such as **BBD TONE**, **BBD SAT**, **BBD MODEL**, **FB COLOR**, **BBD NOISE**, **CHARACTER**, **DUAL TAP** and **FEEDBACK DAMP**.
 
 ### LFO / CLOCK — modulation and timing
 
-![Editor LFO and clock page](../media/editor/RTAL_Flanger_Editor_LFO_Clock.JPG)
+![Editor LFO and clock page](../images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG)
 
 Configure LFO waveforms, smoothing, internal tempo, MIDI synchronization, clock division and the secondary LFO's rate, depth, waveform and destination.
 
 ### STEREO / ROUTING — stereo image and signal flow
 
-![Editor stereo and routing page](../media/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG)
+![Editor stereo and routing page](../images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG)
 
 Control **STEREO WIDTH**, **STEREO PHASE**, routing modes, **CROSS FEEDBACK**, **STEREO MOTION**, **THROUGH ZERO** and the **FEEDBACK MATRIX**.
 
 ### ENVELOPE — dynamic modulation
 
-![Editor envelope page](../media/editor/RTAL_Flanger_Editor_Envelope.JPG)
+![Editor envelope page](../images/editor/RTAL_Flanger_Editor_Envelope.JPG)
 
 Adjust the envelope amount, attack, release and modulation target.
 
 ### PRESETS — 128-slot browser
 
-![Editor preset browser](../media/editor/RTAL_Flanger_Editor_Presets.JPG)
+![Editor preset browser](../images/editor/RTAL_Flanger_Editor_Presets.JPG)
 
 Use **LOAD ON FLANGER** to activate a selected slot. Read one name or all 128 names, rename a preset, and save the **active** preset to SD. **Back up the SD card before writing.** MIDI Program Change values **0–127** correspond to preset slots **001–128**.
 
 ### MORPH CONTROL — preset transitions
 
-![Editor morph control](../media/editor/RTAL_Flanger_Editor_Morph_Control.JPG)
+![Editor morph control](../images/editor/RTAL_Flanger_Editor_Morph_Control.JPG)
 
 Set **PRESET A/B**, position, morph time, MANUAL/AUTO mode, LINEAR/SMOOTH curve, PING-PONG, MIDI sync, division and start direction. Use **READ MORPH**, **APPLY TO FLANGER**, and **SAVE MORPH TO SD** to manage the configuration. The live transport offers **PLAY**, **STOP** and **REVERSE**.
 
@@ -71,7 +71,7 @@ Set **PRESET A/B**, position, morph time, MANUAL/AUTO mode, LINEAR/SMOOTH curve,
 
 ### VISUAL DSP — PC-side analysis and preview
 
-![Editor VISUAL DSP](../media/editor/RTAL_Flanger_Editor_Visual_DSP.JPG)
+![Editor VISUAL DSP](../images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG)
 
 The **VISUAL DSP** page models the stereo comb response and modulation behavior based on synchronized control values. It supports **CAPTURE A/B**, **CLEAR A/B**, **FETCH MORPH A/B**, **SET MORPH A/B**, **MORPH PREVIEW (PC)**, **FREEZE**, **COMPARE**, display options and **EXPORT PNG / EXPORT SVG**.
 
