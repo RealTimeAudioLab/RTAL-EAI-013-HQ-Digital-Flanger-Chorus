@@ -1,8 +1,8 @@
 # RTAL HQ FLANGER — v2.0.0
 
-**Firmware v2.0.0 FINAL · Windows Editor v1.0.0 FINAL · RTAL Phoenix ESP32-S3**
+**Firmware v2.0.0 FINAL · Windows Editor v1.0.0 FINAL · RTAL ESP32-S3**
 
-RTAL HQ FLANGER is a standalone digital stereo flanger and chorus effect for the RTAL Phoenix ESP32-S3 platform. Its BBD-inspired sound-shaping controls, graphical modulation display, 128-slot preset system, preset morphing and MIDI integration combine classic modulation textures with a modern hands-on workflow.
+RTAL HQ FLANGER is a standalone digital stereo flanger and chorus effect for the RTAL ESP32-S3 platform. Its BBD-inspired sound-shaping controls, graphical modulation display, 128-slot preset system, preset morphing and MIDI integration combine classic modulation textures with a modern hands-on workflow.
 
 > **Verification status:** Firmware v2.0.0 FINAL is based on the hardware-tested C2 FIX7 branch. Background preset reading was confirmed on Phoenix hardware with preset 050 remaining active while presets 001 and 105 were read for the editor. The separately repackaged v2.0.0 FINAL sketch has not been independently confirmed as compiled/uploaded. The Windows Editor v1.0.0 FINAL build workflow using Python 3.12 was confirmed working; perform a complete regression test before distribution.
 
