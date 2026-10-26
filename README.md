@@ -43,7 +43,7 @@ Navigate through the parameter groups to reach flanger, advanced, BBD, and DSP-e
 
 The motion page provides visual feedback for modulation and delay-time behavior. The illustrated preset values are examples, not universal defaults.
 
-![Motion display examples](media/motion_comparison.png)
+![Motion display examples](images/motion_comparison.png)
 
 ### Preset browser
 
@@ -63,7 +63,7 @@ The **RTAL HQ FLANGER Editor** is a companion application for Windows 10/11 (64-
 
 ### Editor demonstration
 
-![RTAL HQ FLANGER Editor overview](media/editor/RTAL_FLANGER_EDITOR.gif)
+![RTAL HQ FLANGER Editor overview](images/editor/RTAL_FLANGER_EDITOR.gif)
 
 > The supplied `.gif` is embedded directly in this README. It currently contains **one frame** (a static preview), not an animated recording. Replace it with a multi-frame GIF if an animated demo is desired; the Markdown link will remain unchanged.
 
@@ -71,13 +71,13 @@ The **RTAL HQ FLANGER Editor** is a companion application for Windows 10/11 (64-
 
 | MAIN | BBD / CHARACTER |
 | --- | --- |
-| ![MAIN parameter page](media/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD and character page](media/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
+| ![MAIN parameter page](images/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD and character page](images/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
 | **LFO / CLOCK** | **STEREO / ROUTING** |
-| ![LFO and clock page](media/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo and routing page](media/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
+| ![LFO and clock page](images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo and routing page](images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
 | **ENVELOPE** | **PRESETS** |
-| ![Envelope page](media/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset browser page](media/editor/RTAL_Flanger_Editor_Presets.JPG) |
+| ![Envelope page](images/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset browser page](images/editor/RTAL_Flanger_Editor_Presets.JPG) |
 | **MORPH CONTROL** | **VISUAL DSP** |
-| ![Morph control page](media/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP page](media/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
+| ![Morph control page](images/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP page](images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
 
 ### Editor feature overview
 
