@@ -55,7 +55,6 @@ The optional **HQ DIGITAL FLANGER** desktop editor provides direct access to the
 
 ![RTAL HQ FLANGER Windows Editor demonstration](images/editor/RTAL_FLANGER_EDITOR.gif)
 
-> Upload `media/editor/RTAL_FLANGER_EDITOR.gif` to the repository at the path shown above. If the GIF is a single-frame file, GitHub displays it as a static image.
 
 ### Editor interface gallery
 
