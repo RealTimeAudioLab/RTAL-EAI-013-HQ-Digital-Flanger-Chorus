@@ -1,6 +1,6 @@
 # RTAL-EAI-013 HQ FLANGER — Digital Stereo Flanger & Chorus
 
-**Version 2.0.0 · Phoenix ESP32-S3 · 128 presets · Preset morphing · MIDI control · Windows Editor V1.0.0 FINAL**
+**Version 2.0.0 · Phoenix ESP32-S3 · 128 presets · Preset morphing · MIDI control · Windows Editor V1.0**
 
 RTAL HQ FLANGER is a hardware-based digital stereo flanger and chorus designed for the **ESP32-S3 platform**. It combines BBD-inspired sound shaping, flexible modulation, graphical feedback, preset management, and MIDI integration in a standalone effects processor.
 
