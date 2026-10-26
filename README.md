@@ -39,7 +39,7 @@ Navigate through the parameter groups to reach flanger, advanced, BBD, and DSP-e
 
 ### Motion display
 
-![Graphical motion display](images/RTAL_HQ_FLANGER_Motion.png)
+![Graphical motion display](images/RTAL_HQ_FLANGER_Motion_.png)
 
 The motion page provides visual feedback for modulation and delay-time behavior. The illustrated preset values are examples, not universal defaults.
 
@@ -47,7 +47,7 @@ The motion page provides visual feedback for modulation and delay-time behavior.
 
 ### Preset browser
 
-![Preset browser](images/RTAL_HQ_FLANGER_Preset_Browser.png)
+![Preset browser](images/RTAL_HQ_FLANGER_Preset_Browser_.png)
 
 Browse slots **001–128**, select a sound, and access preset actions. Names and displayed values depend on the SD-card content.
 
