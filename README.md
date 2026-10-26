@@ -57,7 +57,7 @@ Browse slots **001–128**, select a sound, and access preset actions. Names and
 
 The system page reports hardware and SD-card status and can display DSP timing and underrun diagnostics. Diagnostic values are snapshots, not guaranteed benchmarks.
 
-## 🖥️ Windows Editor V1.0.0 FINAL
+## 🖥️ Windows Editor V1.0
 
 The **RTAL HQ FLANGER Editor** is a companion application for Windows 10/11 (64-bit). The hardware remains fully usable without a computer. With the editor connected, **39 parameters** can be synchronized and edited over bidirectional MIDI/SysEx.
 
