@@ -53,20 +53,20 @@ The optional **HQ DIGITAL FLANGER** desktop editor provides direct access to the
 
 ### Editor in action
 
-![RTAL HQ FLANGER Windows Editor demonstration](images/editor/RTAL_FLANGER_EDITOR.gif)
+![RTAL HQ FLANGER Windows Editor demonstration](../images/editor/RTAL_FLANGER_EDITOR.gif)
 
 
 ### Editor interface gallery
 
 | MAIN | BBD / CHARACTER |
 | --- | --- |
-| ![MAIN parameter page](images/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD and character page](images/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
+| ![MAIN parameter page](../images/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD and character page](../images/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
 | **LFO / CLOCK** | **STEREO / ROUTING** |
-| ![LFO and clock page](images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo and routing page](images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
+| ![LFO and clock page](../images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo and routing page](../images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
 | **ENVELOPE** | **PRESETS** |
-| ![Envelope page](images/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset browser page](images/editor/RTAL_Flanger_Editor_Presets.JPG) |
+| ![Envelope page](../images/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset browser page](../images/editor/RTAL_Flanger_Editor_Presets.JPG) |
 | **MORPH CONTROL** | **VISUAL DSP** |
-| ![Morph control page](images/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP page](images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
+| ![Morph control page](../images/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP page](../images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
 
 ### Connection and parameter synchronization
 
