@@ -65,7 +65,6 @@ The **RTAL HQ FLANGER Editor** is a companion application for Windows 10/11 (64-
 
 ![RTAL HQ FLANGER Editor overview](images/editor/RTAL_FLANGER_EDITOR.gif)
 
-> The supplied `.gif` is embedded directly in this README. It currently contains **one frame** (a static preview), not an animated recording. Replace it with a multi-frame GIF if an animated demo is desired; the Markdown link will remain unchanged.
 
 ### Editor interface gallery
 
