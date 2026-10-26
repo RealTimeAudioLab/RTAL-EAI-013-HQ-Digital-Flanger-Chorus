@@ -57,17 +57,17 @@ The optional **HQ DIGITAL FLANGER** desktop editor provides direct access to the
 
 > Upload `media/editor/RTAL_FLANGER_EDITOR.gif` to the repository at the path shown above. If the GIF is a single-frame file, GitHub displays it as a static image.
 
-### Editor screens
+### Editor interface gallery
 
-| Main controls | BBD / Character |
+| MAIN | BBD / CHARACTER |
 | --- | --- |
-| ![Main parameters](images/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD character](images/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
-| **LFO / Clock** | **Stereo / Routing** |
-| ![LFO and clock](images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo routing](images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
-| **Envelope** | **Presets** |
-| ![Envelope](images/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset management](images/editor/RTAL_Flanger_Editor_Presets.JPG) |
-| **Morph Control** | **Visual DSP** |
-| ![Morph control](images/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP](images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
+| ![MAIN parameter page](images/editor/RTAL_Flanger_Editor_Main.JPG) | ![BBD and character page](images/editor/RTAL_Flanger_Editor_BBD_Character.JPG) |
+| **LFO / CLOCK** | **STEREO / ROUTING** |
+| ![LFO and clock page](images/editor/RTAL_Flanger_Editor_LFO_Clock.JPG) | ![Stereo and routing page](images/editor/RTAL_Flanger_Editor_Stereo_Routing.JPG) |
+| **ENVELOPE** | **PRESETS** |
+| ![Envelope page](images/editor/RTAL_Flanger_Editor_Envelope.JPG) | ![Preset browser page](images/editor/RTAL_Flanger_Editor_Presets.JPG) |
+| **MORPH CONTROL** | **VISUAL DSP** |
+| ![Morph control page](images/editor/RTAL_Flanger_Editor_Morph_Control.JPG) | ![Visual DSP page](images/editor/RTAL_Flanger_Editor_Visual_DSP.JPG) |
 
 ### Connection and parameter synchronization
 
